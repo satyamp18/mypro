@@ -7,7 +7,8 @@ A simple and modular Library Management System built using Java. This console-ba
 
 
 
-✅ Features
+✅ Features :-
+
 
 🧑‍💻 User authentication (login system)
 
